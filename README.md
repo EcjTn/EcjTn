@@ -11,7 +11,7 @@
 
 - 📫 How to reach me -> **ecjtaneo@gmail.com**
 
-- ♟️ Fun fact **I play chess daily**
+- ♟️ Fun fact **I love playing chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,4 +20,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ecjtn&show_icons=true&locale=en&layout=compact" alt="ecjtn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ecjtn&show_icons=true&locale=en" alt="ecjtn" /></p>

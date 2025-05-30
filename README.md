@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ecj Taneo</h1>
-<h3 align="center">A backend-focused dev from Philippines who enjoys scripting, automation, and exploring cybersecurity.</h3>
+<h3 align="center">backend-focused dev from Philippines who enjoys scripting, automation, and exploring cybersecurity.</h3>
 
 - 🔭 I’m currently working on learning Express.js, REST APIs, and **Backend development.**
 

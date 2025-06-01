@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on learning Express.js, REST APIs, and **Backend development.**
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 Still learning **NodeJS**
 
 - 👯 Active on [Tiktok](https://www.tiktok.com/@vian.ffs?lang=en)
 

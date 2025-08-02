@@ -25,13 +25,13 @@
 
 </div>
 
-<br><br> 
+<br>
 
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=EcjTn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
 
-  <br><br>
+  <br>
 
   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)

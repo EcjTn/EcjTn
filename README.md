@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ecj Taneo</h1>
-<h3 align="center">Backend-focused dev from Philippines who enjoys scripting, and automation.</h3>
+<h3 align="center">Backend-focused dev from Philippines who enjoys backend development, and automation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ecjtn&label=Profile%20views&color=0e75b6&style=flat" alt="ecjtn" /> </p>
 

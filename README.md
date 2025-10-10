@@ -7,7 +7,7 @@
 
 - ☕ Also loves **Java**
 
-- 👯 Active on [Tiktok](https://www.tiktok.com/@vian.ffs?lang=en)
+- 🟢 Active on [Tiktok](https://www.tiktok.com/@vian.ffs?lang=en)
 
 - 📫 How to reach me -> **ecjtaneo@gmail.com**
 

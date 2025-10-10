@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ecjtn&label=Profile%20views&color=0e75b6&style=flat" alt="ecjtn" /> </p>
 
-- 🔭 I’m currently learning **Backend development**
+- 🔭 I’m currently learning **NestJS**
 
-- 🌱 Still learning **NodeJS**
+- ☕ Also loves **Java**
 
 - 👯 Active on [Tiktok](https://www.tiktok.com/@vian.ffs?lang=en)
 

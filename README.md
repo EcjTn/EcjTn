@@ -49,7 +49,7 @@
 
   <!-- Frameworks -->
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/tech-icons/main/icons/nestjs.svg" alt="nestjs" width="35" height="35"/>
+    <img src="https://avatars.githubusercontent.com/u/28507035?s=200&v=4" alt="nestjs" width="35" height="35"/>
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="35" height="35"/>

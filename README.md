@@ -1,6 +1,6 @@
 # Hi, I'm Ecj 👋
 
-I'm a learning backend developer.  
+I'm a learning backend developer from the Philippines🇵🇭.  
 I enjoy learning new technologies, solving problems, and building projects to improve my skills.
 
 ---

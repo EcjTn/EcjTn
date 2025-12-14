@@ -72,7 +72,4 @@ I enjoy learning new technologies and building projects to improve my skills.
 </p>  
 </div>  
   
----  
-  
-<h3 align="left">Languages:</h3>  
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 12px;"> 
+---   

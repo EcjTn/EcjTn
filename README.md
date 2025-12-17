@@ -49,7 +49,6 @@
   <br/><br/>
 
 
-  <strong>Tools:</strong><br/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-FF0000?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />

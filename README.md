@@ -1,11 +1,9 @@
 # Hi, I'm Ecj 👋
 
-<p align="center">
-  <strong>
-    Learning backend developer from the Philippines 🇵🇭 <br>
-    Focused on building real-world backend systems and understanding how things work under the hood.
-  </strong>
-</p>
+<h3 align="center">
+  I'm a learning backend developer from the Philippines 🇵🇭 <br/>
+  I enjoy learning new technologies and building projects to improve my skills.
+</h3>
 
 ---
 
@@ -26,10 +24,21 @@
 
 ---
 
-## 🧰 Tech Stack
-<p align="center">
+<h3 align="left">Tech Stack:</h3>
+<p align="left">
+  <!-- Languages -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+
+  <!-- Runtime / Frameworks -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+
+  <!-- Auth -->
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+</p>  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />

@@ -1,4 +1,4 @@
-# Hi, I'm Ecj 👋
+# Hi, I'm Ecj
 
 <h3 align="center">
   I'm a learning backend developer from the Philippines 🇵🇭 <br/>
@@ -50,6 +50,10 @@
   
 </p>
 
+
+
+
+---
 
 
 

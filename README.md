@@ -7,7 +7,7 @@
 
 ---
 
-## 🖥️ Tech Stack
+## Tech Stack
 <p align="left">
 
 
@@ -53,4 +53,15 @@
 
 
 
+
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=EcjTn&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=EcjTn&layout=compact&theme=github_dark&hide_border=true&langs_count=10&hide=html"/>
+</p>
 

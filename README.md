@@ -62,14 +62,16 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=EcjTn&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img src="https://streak-stats.demolab.com?user=EcjTn&theme=github-dark-blue&hide_border=true"/>
 </p>
+
 
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=EcjTn&theme=github-dark-blue&hide_border=true"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=EcjTn&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
 </p>
+
 
 
 
